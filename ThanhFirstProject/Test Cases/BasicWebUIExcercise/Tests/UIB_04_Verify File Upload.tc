@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UIB_04_Verify File Upload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24256b3b-959a-4b36-a1c0-fb80fa99cf22</testCaseGuid>
+   <variable>
+      <defaultValue>'UIB_04_abc.png'</defaultValue>
+      <description></description>
+      <id>ebebad38-d867-4ca0-85d8-0638d8244863</id>
+      <masked>false</masked>
+      <name>_fileName</name>
+   </variable>
+</TestCaseEntity>

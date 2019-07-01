@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UIB_11_Verify Table</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb5cec2c-18a2-409c-a663-88c00c95a333</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a439603-18b4-44c3-9563-c8a086903ab5</id>
+      <masked>false</masked>
+      <name>_EmailHeader</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da3e6f17-9517-4b63-9667-c7b6cf31e172</id>
+      <masked>false</masked>
+      <name>_Cell32Value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1093791-8991-42dc-962e-32e31701ee22</id>
+      <masked>false</masked>
+      <name>_Cell24Value</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Drag and Verify Slider Range Value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9d62e8e-7310-4aca-b7bd-f0a602c8a2d7</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>5dcb8ebf-a7b4-4279-95c7-be473595095a</id>
+      <masked>false</masked>
+      <name>_expectedRangeValue</name>
+   </variable>
+</TestCaseEntity>

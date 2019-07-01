@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click Menu Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0b061ca-0cca-4589-aec7-c3e16f1b6748</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>00225be7-9fd0-4b2e-91da-a57c2c814ace</id>
+      <masked>false</masked>
+      <name>_MenuItemLevel1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>cb194f6a-5fbc-4f4a-8dd3-f3e1490a7c86</id>
+      <masked>false</masked>
+      <name>_MenuItemLevel2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>9c089a2f-9f02-4d4c-9793-c69478efe6f5</id>
+      <masked>false</masked>
+      <name>_MenuItemLevel3</name>
+   </variable>
+</TestCaseEntity>

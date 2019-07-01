@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Url of the Web Basic Example</description>
+      <initValue>'https://the-internet.herokuapp.com'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>3</initValue>
+      <name>ShortTimeInSecond</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>true</initValue>
+      <name>init_browser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Data/Katalon/ThanhFirstProject/Data Files/'</initValue>
+      <name>Data_Location</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Download foder</description>
+      <initValue>''</initValue>
+      <name>Download_Path</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

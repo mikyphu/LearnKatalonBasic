@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UIB_03_Verify Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>671cf4c0-a307-44d5-a19b-5b655777cbc5</testCaseGuid>
+   <variable>
+      <defaultValue>'Dropdown'</defaultValue>
+      <description></description>
+      <id>fc729d75-5f1b-4513-996c-153478e49e90</id>
+      <masked>false</masked>
+      <name>linkName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dropdown List'</defaultValue>
+      <description></description>
+      <id>3c2dd57a-27fd-49a8-826c-79b0023e9a90</id>
+      <masked>false</masked>
+      <name>expectedPageTitle</name>
+   </variable>
+</TestCaseEntity>

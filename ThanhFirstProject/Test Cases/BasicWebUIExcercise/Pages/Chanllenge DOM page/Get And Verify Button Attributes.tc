@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get And Verify Button Attributes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5581de2-65aa-4bf1-ae5b-ad456261cc5b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a9e3eb1-b799-4200-8ed4-0c1ae5c9825d</id>
+      <masked>false</masked>
+      <name>expectedFontSize</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e3d8865-6cc1-4676-9e49-94bd0d5b12e5</id>
+      <masked>false</masked>
+      <name>expectedFontWeight</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73805abf-ac12-4b13-b779-99a531bb4e05</id>
+      <masked>false</masked>
+      <name>expectedBGColor</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05712ba7-b173-4760-9e75-e2f1748edca1</id>
+      <masked>false</masked>
+      <name>expectedTextColor</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b7b1810-5031-457c-94fa-52a2e54025ca</id>
+      <masked>false</masked>
+      <name>expectedBorderColor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>363db3bc-183b-4678-b4d9-6a55acf88ab5</id>
+      <masked>false</masked>
+      <name>ButtonObject</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click any link on Home Page and verify page title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4af97c45-b7ec-4d5f-915b-bd8d37c022ec</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>71c0d313-8b6a-4587-b179-98d4e22a1616</id>
+      <masked>false</masked>
+      <name>linkNameText</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>76c660a3-08d4-42c2-9e46-494edf4d5269</id>
+      <masked>false</masked>
+      <name>pageTitle</name>
+   </variable>
+</TestCaseEntity>

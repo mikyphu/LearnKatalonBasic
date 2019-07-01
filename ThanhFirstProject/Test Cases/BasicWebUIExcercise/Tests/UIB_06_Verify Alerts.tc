@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UIB_06_Verify Alerts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>775f3d00-20f1-46fc-a435-5a4b9717c6b6</testCaseGuid>
+   <variable>
+      <defaultValue>'Hello Prompt dialog'</defaultValue>
+      <description></description>
+      <id>5dfe5fe3-2c69-468a-94ca-2c6200b25737</id>
+      <masked>false</masked>
+      <name>_Content</name>
+   </variable>
+</TestCaseEntity>
